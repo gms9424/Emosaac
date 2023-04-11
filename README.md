@@ -85,11 +85,4 @@ Nginx
 | --------- | --------- | --------- | -------- | -------- | -------- |
 | Front-end | Front-end | Front-end | Back-end | Back-end | Back-end |
 
-박찬희
 
--   Jenkins와 Docker를 활용한 Spring Boot, Django 배포
--   GitLab CI/CD와 PM2를 활용한 NextJS 배포
--   평점 예측 알고리즘 구현 (https://github.com/chanho6e1/emosaac/blob/data/develop/server_django/userbasedpredict/ScorePredict.py)
--   작품 관련 API 개발
--   이모픽 API 개발
--   DB 설계
