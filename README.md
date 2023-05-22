@@ -73,7 +73,8 @@
 
         
 <div align="center"> 
-![작품캐러셀](/uploads/d842e57b8ca997a9e9daee803d010610/작품캐러셀.gif)
+<img src = "https://github.com/chanho6e1/emosaac/assets/108286046/194bd0c9-85eb-4689-a951-da1fb7fe399f">
+
 </div>
 
 ### Item Based Recommendation : 최근 읽은 도서와 유사한 도서 추천
