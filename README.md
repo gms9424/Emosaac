@@ -38,7 +38,7 @@
 
 - 로그인 / 웹툰 / 웹소설로 이동할 수 있는 버튼과 이모작의 서비스 소개 페이지
 <div align="center">
-![메인케러셀](https://github.com/chanho6e1/emosaac/assets/108286046/6b0b7032-fa36-4c50-abbf-3e631ea0bd0f)
+<img src = "https://github.com/chanho6e1/emosaac/assets/108286046/6b0b7032-fa36-4c50-abbf-3e631ea0bd0f">
 </div>
 
 ## 로그인
@@ -132,8 +132,8 @@
 - Google Cloud VIsion API를 활용한 OCR스캔 기능을 통해 사용자가 첨부한 사진을 스캔하여 작품을 읽음처리
 - 읽음처리 이후 평점을 매기게 하여 그를 바탕으로 한 알고리즘 분석으로 사용자에게 작품을 추천
 <div align="center"> 
-![OCR](/uploads/050446640dfad941e617012bfd7f59c9/OCR.gif)
-</div>
+  <img src = "https://github.com/chanho6e1/emosaac/assets/108286046/79bdc49c-17e6-4323-a8fe-b76b181caf14">
+  </div>
 
 ## 다크모드
 
