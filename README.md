@@ -86,14 +86,15 @@
 
 ### User-based Collaborative Filtering Recommendation : 유저 베이스 기반 추천 메일 발송
 
-![메일](https://github.com/chanho6e1/emosaac/assets/108286046/bd39009a-f6b0-4891-a7b3-3ab2c03feba5.png)
+![메일](https://github.com/gms9424/Emosaac/assets/90261873/2c970f76-e166-4120-8daa-ef9def42ef4c)
+
 
 
 ### 나이, 성별 통계 / 선호 장르 통계
 
-![나이, 성별 통계](https://github.com/chanho6e1/emosaac/assets/108286046/3b3675bb-ab21-4b40-82e5-28fdf1df5261.png)
+![나이, 성별 통계](https://github.com/gms9424/Emosaac/assets/90261873/c20f3553-6c40-483c-9432-2084d1f4e05c)
 
-![선호 장르](https://github.com/chanho6e1/emosaac/assets/108286046/e40196cd-00a3-48c2-9447-dbb07ddd137b.png)
+![선호 장르](https://github.com/gms9424/Emosaac/assets/90261873/d3aed649-c7e1-4234-97f9-5bf2b2b8067a)
 
 
 ## 디테일
