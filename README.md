@@ -45,7 +45,7 @@
 
 - OAuth2.0을 활용한 네이버 / 카카오 로그인
 <div align="center">
-![로그인](https://github.com/chanho6e1/emosaac/assets/108286046/d090783e-bcb7-43d8-8afd-890223327b52)
+<img src =https://github.com/chanho6e1/emosaac/assets/108286046/d090783e-bcb7-43d8-8afd-890223327b52>
 </div>
 
 ## 설문조사
@@ -53,7 +53,7 @@
 - 설문조사와 회원정보를 바탕으로 자체 알고리즘 분석으로 추천하기 위한 페이지
 - 웹툰/웹소설 각각 최소 5개씩 선정해야만 한다.
 <div align="center">
-![설문조사](https://github.com/chanho6e1/emosaac/assets/108286046/a55cb11d-d111-4130-a32c-6c9c44e334b7)
+<img src =https://github.com/chanho6e1/emosaac/assets/108286046/a55cb11d-d111-4130-a32c-6c9c44e334b7>
 </div>
 
 ## 검색기능
@@ -62,7 +62,7 @@
 - 최근 조회한 목록이 최상단으로 올 수 있도록 구성
 - PC 기준 우측에는 인기 태그를 조회하고 클릭하면 바로 태그 검색이 된다.
 <div align="center">
-![검색](https://github.com/chanho6e1/emosaac/assets/108286046/4b4375cc-574b-48b5-be9a-c1f128b1ebb0)
+<img src =https://github.com/chanho6e1/emosaac/assets/108286046/4b4375cc-574b-48b5-be9a-c1f128b1ebb0>
 </div>
 
 ## 웹툰 · 웹소설 추천
@@ -92,9 +92,9 @@
 
 ### 나이, 성별 통계 / 선호 장르 통계
 
-![나이, 성별 통계](https://github.com/gms9424/Emosaac/assets/90261873/c20f3553-6c40-483c-9432-2084d1f4e05c)
+<img src =https://github.com/gms9424/Emosaac/assets/90261873/c20f3553-6c40-483c-9432-2084d1f4e05c>
 
-![선호 장르](https://github.com/gms9424/Emosaac/assets/90261873/d3aed649-c7e1-4234-97f9-5bf2b2b8067a)
+<img src =https://github.com/gms9424/Emosaac/assets/90261873/d3aed649-c7e1-4234-97f9-5bf2b2b8067a>
 
 
 ## 디테일
@@ -105,7 +105,7 @@
     - 이에 따라 여러 검색 엔진 크롤러가 디테일 페이지의 정보에 접근이 용이해졌다.
 
 <div align="center"> 
-![디테일](https://github.com/chanho6e1/emosaac/assets/108286046/0d62f95e-dfb7-439f-ace7-a475d4084962)
+<img src = https://github.com/chanho6e1/emosaac/assets/108286046/0d62f95e-dfb7-439f-ace7-a475d4084962>
 </div>
 
 
@@ -113,8 +113,8 @@
 
 - 사용자들이 직접 본인의 추천 리스트를 작성하는 공간
 <div align="center"> 
-![이모픽](https://github.com/chanho6e1/emosaac/assets/108286046/e96ac69d-48ec-4a7d-85f3-9b6e7fa77eea)
-![이모픽_디테일](https://github.com/chanho6e1/emosaac/assets/108286046/a8e47ca1-6bc9-4da1-b0a3-25b8afef5b08)
+<img src =https://github.com/chanho6e1/emosaac/assets/108286046/e96ac69d-48ec-4a7d-85f3-9b6e7fa77eea>
+<img src =https://github.com/chanho6e1/emosaac/assets/108286046/a8e47ca1-6bc9-4da1-b0a3-25b8afef5b08>
 </div>
 
 ## 마이 페이지
@@ -124,7 +124,7 @@
 - 가장 많이 조회한 장르, 가장 적게 조회한 장르의 작품을 1~2개씩 추천해주는 기능
 - 북마크, 읽음 처리된 작품들을 조회하고, 북마크, 읽음 처리 취소를 하면 바로 목록에서 삭제된다.
 <div align="center">
-![마이페이지](https://github.com/chanho6e1/emosaac/assets/108286046/24ee94d6-f448-428a-bdbb-3d64a7784495)
+<img src =https://github.com/chanho6e1/emosaac/assets/108286046/24ee94d6-f448-428a-bdbb-3d64a7784495>
 </div>
 
 ## OCR기능을 이용한 자동 읽음 처리
@@ -140,7 +140,7 @@
 - global.css에 css변수의 형태로 라이트모드, 다크모드일 때의 색상을 모두 지정해두고, 해당 변수를 이용하여 컴포넌트 css를 구성하여 다크 모드 토글 한번으로 모든 요소가 다크/라이트 테마에 맞는 css를 가지게 되었다.
 
 <div align="center">
-![다크모드](https://github.com/chanho6e1/emosaac/assets/108286046/0c1d9a6a-f74e-473a-816d-7116c79694e5)
+<img src =https://github.com/chanho6e1/emosaac/assets/108286046/0c1d9a6a-f74e-473a-816d-7116c79694e5>
 </div>
 
 ---
